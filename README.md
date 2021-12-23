@@ -14,3 +14,7 @@ Discrete
 
 Any other data types? (other than ts) 
 - like before/after probability distribution (averaged out)
+
+Transfer Entropy 
+  - Relation to G-Causality 
+    - Granger causality and transfer entropy are equivalent for Gaussian variables https://arxiv.org/abs/0910.4514
