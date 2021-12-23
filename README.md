@@ -20,3 +20,5 @@ Transfer Entropy
     - Granger causality and transfer entropy are equivalent for Gaussian variables https://arxiv.org/abs/0910.4514
 
   - Multivariate Time Series Forecasting with Transfer Entropy Graph
+
+* note that Transfer Entropy is studied with Granger Causality because of its equivalence on Gaussian Assumption
