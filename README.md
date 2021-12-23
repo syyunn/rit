@@ -27,3 +27,6 @@ Transfer Entropy
 Deep approach
   - Causal Discovery with Attention-Based
 Convolutional Neural Networks
+
+Deermination of How to Slice the Window of Interest (hyperparameter)
+  - Maybe using the average contract period of observations (e.g. Samsung - Square Patton Boogs - 2 years) 
