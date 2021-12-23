@@ -18,6 +18,7 @@ Any other data types? (other than ts)
 Transfer Entropy 
   - Relation to G-Causality 
     - Granger causality and transfer entropy are equivalent for Gaussian variables https://arxiv.org/abs/0910.4514
+      - refer to this lit for use of det for multi-variate generalization
 
   - Multivariate Time Series Forecasting with Transfer Entropy Graph (GNN+TE+Granger)
 
