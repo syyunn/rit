@@ -34,3 +34,5 @@ Deermination of How to Slice the Window of Interest (hyperparameter)
 Limits of Granger
   - linear
   - Stationaery 
+  
+We need a model that can tackle non-linear, non-stationaery mts
