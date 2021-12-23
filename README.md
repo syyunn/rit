@@ -23,3 +23,7 @@ Transfer Entropy
   - Multivariate Time Series Forecasting with Transfer Entropy Graph (GNN+TE+Granger)
 
 * note that Transfer Entropy is studied with Granger Causality because of its equivalence on Gaussian Assumption
+
+Deep approach
+  - Causal Discovery with Attention-Based
+Convolutional Neural Networks
