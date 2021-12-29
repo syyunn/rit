@@ -36,3 +36,5 @@ Limits of Granger
   - Stationaery 
   
 We need a model that can tackle non-linear, non-stationaery mts
+
+Non linear causality
