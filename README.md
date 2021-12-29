@@ -37,4 +37,10 @@ Limits of Granger
   
 We need a model that can tackle non-linear, non-stationaery mts
 
+# Topics
+
 Non linear causality
+Causal validity
+- How to validate whether these relationship is causal?
+-   - temporal precedence
+-   - Change of Cause changes effect CCCE
